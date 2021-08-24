@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="500137000528_97246.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="500047300399_447665.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="SONYEJINN" src="https://img.shields.io/badge/SONYEJINN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
